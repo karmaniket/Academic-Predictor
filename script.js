@@ -28,7 +28,7 @@ document.getElementById('gradeForm').addEventListener('submit', function(e) {
     if (!isNaN(currentAge) && !isNaN(targetYear)) {
         if (targetYear < birthYear) {
             document.getElementById('result').innerText = `Seriously? you were not born yet!`;
-        }else if (targetYear - birthYear > 26) {
+        }else if (targetYear - birthYear > 29) {
             document.getElementById('result').innerText = 'Bro relax get a life';
         }else if (targetYear > birthYear +17) {
             document.getElementById('programGroup').style.display = 'block';
