@@ -1,2 +1,4 @@
-# Academic-Predictor
-While I was frustrated trying to calculate which grade I was or would be in during a specific year, I came up with the idea for an Academic Predictor. Enjoy, fellow coders!
+<h1 align="center">Academic journey Predictor</h1>
+<h3 align="center">Created an intuitive web-based tool for students and graduates to predict their academic journey.</h3>
+<h3 align="center">Try <a href="https://academicpredictor.pages.dev">Academic Predictor</a> now!</h3><br>
+<img width="auto" src="academic predictor.png" >
