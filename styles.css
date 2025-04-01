@@ -7,9 +7,8 @@ body {
     height: 100vh;
     margin: 0;
 }
-
 .container {
-    background-color: #1c1c1e;
+    background-color: #111;
     padding: 25px;
     border-radius: 12px;
     box-shadow: 0 4px 16px rgb(113, 198, 255);
@@ -17,7 +16,6 @@ body {
     max-width: 400px;
     text-align: center;
 }
-
 h1 {
     margin-top: 10px;
     margin-bottom: 30px;
@@ -35,20 +33,17 @@ h3 {
 a{
     color: #E8E8ED;
 }
-
 .form-group {
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
 }
-
 label {
     display: block;
     margin-bottom: 10px;
     margin-top: 15px;
     font-weight: 600;
 }
-
 input, select {
     width: 90%;
     padding: 10px;
@@ -56,11 +51,10 @@ input, select {
     border-radius: 8px;
     box-sizing: border-box;
     font-size: 20px;
-    background: rgb(49, 49, 49);
+    background: rgb(31, 31, 31);
     color: #E8E8ED;
     text-align: center;
 }
-
 button {
     background-color: rgb(0, 114, 190);
     color: #E8E8ED;
@@ -71,11 +65,9 @@ button {
     transition: background-color 0.3s;
     font-size: 20px;
 }
-
 button:hover {
     background-color: #0020b1;
 }
-
 .result {
     margin-top: 25px;
     font-size: 18px;
@@ -86,28 +78,23 @@ button:hover {
 @media (max-width: 768px) {
     body{
         height: 100vh;
-        /* margin-top: -20px; */
     }
     .container {
         padding: 20px;
         max-width: 100%;
         margin: 35px;
     }
-
     h1 {
         font-size: 25px;
         margin-bottom: 40px;
     }
-
     input, select, button {
         font-size: 16px;
         padding: 10px;
     }
-
     .result {
         font-size: 16px;
     }
-
     h3 {
         font-size: 12px;
         margin: 0;
