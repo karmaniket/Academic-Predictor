@@ -17,10 +17,10 @@ Created an intuitive `JavaScript` based web app for students and graduates to pr
 ## ❓ How to use
 
 > [!TIP]
-> Simply enter your current age <br>
-> Enter your desired/target year <br>
-> Enter your total years spent in kindergarten (default 5)  <br>
-> Select your higher education, master's or bachelor's <br>
+> - Simply enter your current age <br>
+> - Enter your desired/target year <br>
+> - Enter your total years spent in kindergarten (default 5)  <br>
+> - Select your higher education, master's or bachelor's <br>
 
 ## 📦 Installation and Setup
 
