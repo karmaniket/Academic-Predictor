@@ -11,16 +11,17 @@ A `JavaScript` based web app for students and graduates to predict their academi
 ## 🚀 Features
 
 - Predicts academic year using numeric input
-- Purely script based web app
-- Easily deployable on Cloudflare
+- Easily determine which grade you were in, are in or will be in based on any given year
+- Covers a wide range from Grade 1 to postgraduate degree
+- A simple responsive user interface
 
 ## ❓ How to use
 
 > [!TIP]
-> - Simply enter your current age <br>
-> - Enter your desired/target year <br>
-> - Enter your total years spent in kindergarten (default 5)  <br>
-> - Select your higher education, master's or bachelor's <br>
+> - Simply enter your current age
+> - Enter your desired/target year
+> - Enter your total years spent in kindergarten (default 5)
+> - Select your higher education, master's or bachelor's
 
 ## ⚡ Setup
 
@@ -29,8 +30,8 @@ A `JavaScript` based web app for students and graduates to predict their academi
     git clone https://github.com/karmaniket/Academic-Predictor.git
     cd Academic-Predictor
 
-### Deploy
+### Deploy on Cloudflare
 
-- Push your code to GitHub repository.
-- Create a new page under Worker & Pages on `Cloudflare`.
-- Connect your repository and deploy.
+- Push your code to GitHub repository
+- Create a new page under `Worker & Pages` on Cloudflare
+- Connect your repository and deploy
