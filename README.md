@@ -4,7 +4,7 @@ A `JavaScript` based web app for students and graduates to predict their academi
 
 ## 🌐 Live Demo
 
-### Try [Academic Predictor](https://academicpredictor.pages.dev) app now!
+### Wondering what grade you were, you are or will be in? Just pick a year and try [Academic Predictor](https://academicpredictor.pages.dev) app now!
 
 ![academic](academic.png)
 
