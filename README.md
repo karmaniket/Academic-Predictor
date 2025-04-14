@@ -4,14 +4,14 @@ A `JavaScript` based web app for students and graduates to predict their academi
 
 ## 🌐 Live Demo
 
-### Wondering what grade you were, you are or will be in? Just pick a year and try [Academic Predictor](https://academicpredictor.pages.dev) app now!
+### Wondering what grade you were or will be in? Just pick a year and try [Academic Predictor](https://academicpredictor.pages.dev) app now!
 
 ![academic](academic.png)
 
 ## 🚀 Features
 
 - Predicts academic year using numeric input
-- Easily determine which grade you were in, are in or will be in based on any given year
+- Easily determine in which grade you were or will be based on any given year
 - Covers a wide range from Grade 1 to postgraduate degree
 - A simple responsive user interface
 
