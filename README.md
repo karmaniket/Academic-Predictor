@@ -1,10 +1,10 @@
 <h1 align="center">Academic Journey Predictor</h1>
 
-Created an intuitive `JavaScript` based web app for students and graduates to predict their academic journey.
+A `JavaScript` based web app for students and graduates to predict their academic journey.
 
 ## 🌐 Live Demo
 
-### Try <a href="https://academicpredictor.pages.dev">Academic Predictor</a> app now!
+### Try [Academic Predictor](https://academicpredictor.pages.dev) app now!
 
 <img width="auto" src="academic.png" >
 
@@ -22,15 +22,15 @@ Created an intuitive `JavaScript` based web app for students and graduates to pr
 > - Enter your total years spent in kindergarten (default 5)  <br>
 > - Select your higher education, master's or bachelor's <br>
 
-## 📦 Setup
+## ⚡ Setup
 
 ### Clone the repository
 
     git clone https://github.com/karmaniket/Academic-Predictor.git
     cd Academic-Predictor
 
-## ⚡ Deployment on Cloudflare
+### Deploy
 
 - Push your code to GitHub repository.
-- Create a new page under Worker & Pages.
-- Connect your repository and deploy
+- Create a new page under Worker & Pages on `Cloudflare`.
+- Connect your repository and deploy.
