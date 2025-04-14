@@ -22,7 +22,7 @@ Created an intuitive `JavaScript` based web app for students and graduates to pr
 > - Enter your total years spent in kindergarten (default 5)  <br>
 > - Select your higher education, master's or bachelor's <br>
 
-## 📦 Installation and Setup
+## 📦 Setup
 
 ### Clone the repository
 
@@ -34,8 +34,3 @@ Created an intuitive `JavaScript` based web app for students and graduates to pr
 - Push your code to GitHub repository.
 - Create a new page under Worker & Pages.
 - Connect your repository and deploy
-
-## 🎉 Work in Progress!
-
-We’re continuously evolving! I'd love to hear your feedback. Feel free to reach out and become a part of STEM community.
-Join me on this exciting journey! 🌍
