@@ -6,7 +6,7 @@ A `JavaScript` based web app for students and graduates to predict their academi
 
 ### Try [Academic Predictor](https://academicpredictor.pages.dev) app now!
 
-<img width="auto" src="academic.png" >
+![academic](academic.png)
 
 ## 🚀 Features
 
