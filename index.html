@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Predictor</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=SF+Pro:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Academic Predictor</h1>
+        <form id="gradeForm">
+            <div class="form-group">
+                <label for="currentAge"></label>
+                <input type="number" id="currentAge" placeholder="Current Age" name="currentAge" required>
+            </div>
+            <div class="form-group">
+                <label for="targetYear"></label>
+                <input type="number" id="targetYear" placeholder="Target Year" name="targetYear" required>
+            </div>
+            <div class="form-group">
+            <label for="kinderyrs"></label>
+            <input type="number" id="kinderyrs" placeholder="Years in kindergarten" value="5">
+            </div>
+            <button type="submit">Predict</button>
+        </form>
+        <div class="form-group" id="programGroup" style="display: none;">
+            <label for="programType"></label>
+            <select id="programType" name="programType">
+                <option value="bachelor">Bachelor's degree 4yrs</option>
+                <option value="master">Master's degree</option>
+            </select>
+        </div>
+        <div class="result" id="result"></div>
+        <h3>Copyright © 2025 <a href="https://karmaniket.pages.dev/" target="_blank">karmaniket</a>. All rights reserved.</h3>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
