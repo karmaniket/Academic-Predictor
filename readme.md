@@ -1,6 +1,6 @@
 <h1 align="center">Academic Journey Predictor</h1>
 
-**Academic Predictor** is a simple web application that estimates a student's academic grade or program level (Bachelor's/Master's) in a specified target year based on their current age and years spent in kindergarten. If you are thinking what grade you were or will be in, Just pick a year and try the [app](https://academicpredictor.pages.dev) now!
+**Academic Predictor** is a simple web application that estimates a student's academic grade or program level in a specified target year, So if you are thinking what grade you were or will be in, Just pick a year and try the [app](https://academicpredictor.pages.dev) now!
 
 ## Demo
 
