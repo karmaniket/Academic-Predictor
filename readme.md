@@ -6,8 +6,6 @@
 
 [![Demo](https://img.youtube.com/vi/RUwyvUAB8Ns/maxresdefault.jpg)](https://youtu.be/RUwyvUAB8Ns)
 
----
-
 ## Features
 
 - Predicts school grade or higher education level for any target year
@@ -15,8 +13,6 @@
 - Includes support for program type selection (Bachelor's or Master's)
 - Clean, responsive UI designed with accessibility in mind
 - Validates user input and provides helpful error messages
-
----
 
 ## Setup
 
@@ -45,8 +41,6 @@
 - Handling unrealistic ages, must be between 1–50
 - Target years before birth, kindergarten years between 0–15
 - Long spans that suggest unlikely academic paths, target year must be in the range 1950–2099
-
----
 
 ## License
 
