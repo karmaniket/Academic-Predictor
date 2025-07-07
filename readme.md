@@ -33,7 +33,7 @@
 
 - Simply enter your current age, target year, years spent in kindergarten (default 5)
 - Select your higher education, master's or bachelor's
-- **Prediction Logic:** `Grade = (Target Year - Birth Year) - Kindergarten Years`
+- **Logic:** `Grade = (Target Year - Birth Year) - Kindergarten Years`
 
 ### 4. Validation Rules
 
