@@ -18,8 +18,10 @@
 
 ### 1. Clone the repository
 
+```bash
     git clone https://github.com/karmaniket/Academic-Predictor.git
     cd Academic-Predictor
+```
 
 ### 2. Deploy on Cloudflare
 
@@ -31,12 +33,9 @@
 
 - Simply enter your current age, target year, years spent in kindergarten (default 5)
 - Select your higher education, master's or bachelor's
+- **Prediction Logic**: Grade = (Target Year - Birth Year) - Kindergarten Years
 
-### 4. Prediction Logic
-
-- Grade = (Target Year - Birth Year) - Kindergarten Years
-
-### 5. Validation Rules
+### 4. Validation Rules
 
 - Handling unrealistic ages, must be between 1–50
 - Target years before birth, kindergarten years between 0–15
